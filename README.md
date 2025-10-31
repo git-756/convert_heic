@@ -75,4 +75,4 @@
 
 ## 作成者
 [Samurai-Human-Go](https://samurai-human-go.com/%e9%81%8b%e5%96%b6%e8%80%85%e6%83%85%e5%a0%b1/)
-- [ブログ記事: 【Python】HEIC画像をJPGに一括変換するスクリプト開発記【Pillow / pillow-heif】](https://samurai-human-go.com/python-convert-heic-to-jpg/)
+- [ブログ記事: 【Python】iPhoneのHEIC画像をJPGに一括変換するスクリプト開発記 (Pillow / pillow-heif)](https://samurai-human-go.com/python-convert-heic-to-jpg/)
